@@ -1,5 +1,6 @@
 ## Mermaid in Markdown
 
+![rendered image description](relative/path/to/rendered_image.png)
 <details>
   <summary>diagram source</summary>
   This details block is collapsed by default when viewed in GitHub.
