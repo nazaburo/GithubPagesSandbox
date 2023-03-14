@@ -1,0 +1,3 @@
+[submodule "SUBMODULE/DIRECTORY"]
+	path = SUBMODULE/DIRECTORY
+	url = git@github.com:nielsvaneck/render-md-mermaid.git
